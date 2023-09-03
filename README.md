@@ -1,9 +1,9 @@
 # Selenium-Login
 An automation for Logging into "kaveri.karnataka.gov.in" using Selenium and Chrome webdriver.
 
-(this includes a copy of chromedriver, which may run into errors while downloading from this repository)
+(this includes a copy of chromedriver, which may run into errors while downloading directly from repository)
 
-  1. Edit secret.py with your username and password
+  1. Edit "selenium/Main/secret.py" with your username and password
 
   within the terminal:
   
